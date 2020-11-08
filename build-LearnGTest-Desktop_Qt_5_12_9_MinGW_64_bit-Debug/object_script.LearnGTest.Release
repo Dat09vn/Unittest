@@ -1,0 +1,14 @@
+release/gmock-cardinalities.o
+release/gmock-internal-utils.o
+release/gmock-matchers.o
+release/gmock-spec-builders.o
+release/gmock.o
+release/gtest-death-test.o
+release/gtest-filepath.o
+release/gtest-matchers.o
+release/gtest-port.o
+release/gtest-printers.o
+release/gtest-test-part.o
+release/gtest-typed-test.o
+release/gtest.o
+release/main.o

@@ -1,0 +1,14 @@
+debug/gmock-cardinalities.o
+debug/gmock-internal-utils.o
+debug/gmock-matchers.o
+debug/gmock-spec-builders.o
+debug/gmock.o
+debug/gtest-death-test.o
+debug/gtest-filepath.o
+debug/gtest-matchers.o
+debug/gtest-port.o
+debug/gtest-printers.o
+debug/gtest-test-part.o
+debug/gtest-typed-test.o
+debug/gtest.o
+debug/main.o
